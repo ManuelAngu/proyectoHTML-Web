@@ -1,0 +1,11 @@
+#principal {
+	border: solid 1px #cccccc;
+	padding: 100;
+	margin; 0 auto;
+	width: 85%;
+	background: #FFA233;
+}
+
+fieldset {
+	margin-bottom: 10px;
+}
