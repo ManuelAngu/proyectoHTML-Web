@@ -1,3 +1,0 @@
-1-version basica
-1.1-version mejorado
-1.2-version mejorada de texto
